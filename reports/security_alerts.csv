@@ -1,0 +1,2 @@
+timestamp,ip_address,alert_type,severity,failed_attempts
+2026-10-03T00:00:40+00:00,203.0.113.50,Potential Brute Force,HIGH,5
